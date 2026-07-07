@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="gtrzGCqndN9097NKTvpt">
+    <mxGraphModel dx="934" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-9" edge="1" parent="1" source="EPtFGqTjmbvQZPwSQsVV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EPtFGqTjmbvQZPwSQsVV-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Internet" vertex="1">
+          <mxGeometry height="40" width="140" x="280" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-11" edge="1" parent="1" source="EPtFGqTjmbvQZPwSQsVV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EPtFGqTjmbvQZPwSQsVV-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Firewall" vertex="1">
+          <mxGeometry height="40" width="140" x="280" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-13" edge="1" parent="1" source="EPtFGqTjmbvQZPwSQsVV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EPtFGqTjmbvQZPwSQsVV-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Load Balancer" vertex="1">
+          <mxGeometry height="40" width="140" x="280" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-15" edge="1" parent="1" source="EPtFGqTjmbvQZPwSQsVV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EPtFGqTjmbvQZPwSQsVV-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Web Server" vertex="1">
+          <mxGeometry height="40" width="140" x="280" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-17" edge="1" parent="1" source="EPtFGqTjmbvQZPwSQsVV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EPtFGqTjmbvQZPwSQsVV-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Application Server" vertex="1">
+          <mxGeometry height="40" width="140" x="280" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="EPtFGqTjmbvQZPwSQsVV-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Database Server" vertex="1">
+          <mxGeometry height="40" width="140" x="280" y="630" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
